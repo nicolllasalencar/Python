@@ -1,0 +1,1 @@
+#algoritimo que leia um número e mostre seu dobro seu triplo e raiz quadrada
