@@ -1,0 +1,7 @@
+#De o custo do aluguel do carro baseado no numero de dias e km rodadados (dia = R$60) (km = R$0.15)
+print('-'*100)
+dias = int(input('Quantos dias?: '))
+km = float(input('Quantos km rodados: '))
+total = (km * 0.15) + (dias * 60)
+print('o total a pagar é R${:.2f}'.format(total))
+print('-'*100)
